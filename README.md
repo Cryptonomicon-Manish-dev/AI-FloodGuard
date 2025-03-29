@@ -74,8 +74,8 @@ This project implements an AI-powered flood risk prediction and visualization sy
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd flood-risk-prediction
+git clone [<repository-url>](https://github.com/Cryptonomicon-Manish-dev/AI-FloodGuard.git)
+cd AI-FloodGuard
 ```
 
 2. Create and activate a virtual environment:
