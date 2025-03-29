@@ -19,12 +19,6 @@ This project implements an AI-powered flood risk prediction and visualization sy
 
 ### 📸 Project Screenshots
 
-#### 🗺️ Interactive Risk Map (HTML)
-<div align="center">
-  <img src="screenshots/risk_map.html" alt="Interactive Risk Map HTML" width="800">
-  <p><em>Interactive map showing flood risk zones in Chandigarh/Punjab region</em></p>
-</div>
-
 #### 🗺️ Risk Map Visualization (PNG)
 <div align="center">
   <img src="screenshots/risk_map.png" alt="Risk Map PNG" width="800">
